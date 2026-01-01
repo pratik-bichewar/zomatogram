@@ -1,7 +1,7 @@
  🚀 Features
 
 🔐 User Authentication & Authorization
-Secure login and registration using JWT
+Secure login and registration using 
 Role-based access for customers and restaurants
 
 📹 Reels-Style Video Feed
